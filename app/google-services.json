@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720684472593",
+    "project_id": "command-application",
+    "storage_bucket": "command-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720684472593:android:057926d0afd25e41aed4b0",
+        "android_client_info": {
+          "package_name": "com.aplicacion.commandapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOirUEBeMgqC-GPT7EkfcyORtBqtC_Huw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
